@@ -1,6 +1,6 @@
 # Fountains
 <a 
-href="https://ch99en.github.io/Fountains/"
+href="https://ch99en.github.io/Fountains/?_blank"
 target="_blank">
 泉水
 </a>
